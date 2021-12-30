@@ -1,4 +1,6 @@
 # seckill
+
+若有需要，可以关注公众号： CppCoding
 秒杀项目
 
 使用redis缓存静态页面
